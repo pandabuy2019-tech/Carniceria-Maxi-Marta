@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carniceria-maxi-marta.vercel.app/sitemap.xml
